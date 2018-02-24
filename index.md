@@ -1,5 +1,7 @@
 ## 欢迎随时与我联系：yu_tian_jian@163.com
 
+## 广播电视直播源Player
+
 广播电视直播源Player, 在你的iMac上看电视，听广播。
 网络电视直播资源十分丰富，不需要再单独摆一台电视或电视盒子+显示器了，即省钱又省事。
 App本身不带任何直播源地址，支持用户自己定制广播电视直播源，想看什么电视、电影频道，完全由自己制作的源文件确定。
@@ -17,30 +19,21 @@ App本身不带任何直播源地址，支持用户自己定制广播电视直�
 
 ## 重要提示
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+- 某些源地址有效期很短，请自己主动搜索新源替换。相信你能找到自己喜欢的、流畅稳定的源。
+- 不保证所有源都有效、流畅。因为许多代理源刚找到的时候很流畅，过一天，甚至过几个小时，就变得很卡，俗称短命源。
+- 个人精力有限，只能不定期更新，也不承诺长期更新。
+- 要想找到好源，需要经常泡坛子，某些好源瞬间即失。
+- 播放卡顿的问题：我专门进行过一些对比研究，主要因素还是源的问题。为此，专门在新浪博客上发表了博文，可惜，我的新浪博客被永久封闭。
+  其余国内网站大都如此，有类似下载链接的博文，基本秒删，不封就算客气的啦。
 
 ## 源地址模版文件
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 为了您的使用方便，特意制作了源地址模版文件，包括央视及一些电影频道的源地址，需要的可以下载用于测试，其余源地址需要自己到网上搜寻。
 [源地址模版文件下载](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 欢迎提出建议
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TVPlayerSupport/TVPlayerSupport/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+有关App功能，欢迎提出要求或建议。我将尽力满足您的要求，如因能力所限，无法实现所建议的功能，也会尽快给您回复。
+谢谢。
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
