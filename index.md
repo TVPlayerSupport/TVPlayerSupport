@@ -1,4 +1,4 @@
-## 欢迎随时与我联系：yu_tian_jian@163.com
+## 欢迎随时联系：yu_tian_jian@163.com
 
 ## 广播电视直播源Player
 
