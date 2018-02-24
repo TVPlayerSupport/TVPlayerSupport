@@ -1,7 +1,9 @@
 ## 欢迎随时与我联系：yu_tian_jian@163.com
 
-广播电视直播源Player, 在你的iMac上看电视，听广播。网络电视直播资源十分丰富，不需要再单独摆一台电视或电视盒子+显示器了。
-支持用户自己定制广播电视直播源，只需将广播电视直播源地址文件拖入播放窗口或打开即可。App本身不带任何直播源地址，想看什么电视、电影频道，完全由自己制作的源文件确定。在技术支持网站放有包括央视及一些电影频道的源地址文件模版，需要的可以下载用于测试，其余源地址需要自己到网上搜寻。
+广播电视直播源Player, 在你的iMac上看电视，听广播。
+网络电视直播资源十分丰富，不需要再单独摆一台电视或电视盒子+显示器了，即省钱又省事。
+App本身不带任何直播源地址，支持用户自己定制广播电视直播源，想看什么电视、电影频道，完全由自己制作的源文件确定。
+只需将广播电视直播源地址文件拖入播放窗口或打开即可。
 特点:
 - 支持m3u8广播电视直播（广播电视直播源地址文件由用户定制）。
 - 支持mp4视频点播。
@@ -13,16 +15,14 @@
 - 窗口大小从480x320到全屏可调整。
 - 可保持或取消视频窗口始终在前台，方便边做事边看电视。（通过左上菜单操作）
 
-### Markdown
+## 重要提示
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 源地址模版文件
 
 - Bulleted
 - List
@@ -34,8 +34,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [源地址模版文件下载](https://guides.github.com/features/mastering-markdown/).
+为了您的使用方便，特意制作了源地址模版文件，包括央视及一些电影频道的源地址，需要的可以下载用于测试，其余源地址需要自己到网上搜寻。
+[源地址模版文件下载](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
