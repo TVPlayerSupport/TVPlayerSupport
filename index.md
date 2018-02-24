@@ -1,8 +1,17 @@
 ## 欢迎随时与我联系：yu_tian_jian@163.com
 
-You can use the [editor on GitHub](https://github.com/TVPlayerSupport/TVPlayerSupport/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+广播电视直播源Player, 在你的iMac上看电视，听广播。网络电视直播资源十分丰富，不需要再单独摆一台电视或电视盒子+显示器了。
+支持用户自己定制广播电视直播源，只需将广播电视直播源地址文件拖入播放窗口或打开即可。App本身不带任何直播源地址，想看什么电视、电影频道，完全由自己制作的源文件确定。在技术支持网站放有包括央视及一些电影频道的源地址文件模版，需要的可以下载用于测试，其余源地址需要自己到网上搜寻。
+特点:
+- 支持m3u8广播电视直播（广播电视直播源地址文件由用户定制）。
+- 支持mp4视频点播。
+- 支持的视频格式有m3u8, mp4, mov, mpg, ts, m2ts, mp3. . . . . .
+- 支持全屏播放。
+- 支持文件的拖放操作。
+- 支持播放文件列表。
+- 自动保存直播源文件(xxx.txt)，只保存最新打开或拖入的直播源文件(xxx.txt)。如需要更新，编辑新文件后，再次打开或拖入播放窗口即可。
+- 窗口大小从480x320到全屏可调整。
+- 可保持或取消视频窗口始终在前台，方便边做事边看电视。（通过左上菜单操作）
 
 ### Markdown
 
