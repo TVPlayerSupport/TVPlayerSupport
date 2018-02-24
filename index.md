@@ -2,7 +2,7 @@
 
 ## 广播电视直播源Player
 
-<img src="icon_TV.png" width = "128" height = "128" alt="图片名称" align=center />
+<img src="icon_TV.png" width = "128" height = "128" alt="icon_TV.png" align=center />
 
 广播电视直播源Player, 在你的iMac上看电视，听广播。
 网络电视直播资源十分丰富，不需要再单独摆一台电视或电视盒子+显示器了，即省钱又省事。
