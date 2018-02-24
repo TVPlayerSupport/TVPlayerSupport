@@ -29,7 +29,7 @@ App本身不带任何直播源地址，支持用户自己定制广播电视直�
 ## 源地址模版文件
 
 为了您的使用方便，特意制作了源地址模版文件，包括央视及一些电影频道的源地址，需要的可以下载用于测试，其余源地址需要自己到网上搜寻。
-[源地址模版文件下载](https://TVPlayerSupport.github.io/SourceFile/myTVsrc.txt.zip)
+[源地址模版文件下载](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
 
 ## 欢迎提出建议
 
