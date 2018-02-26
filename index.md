@@ -4,6 +4,8 @@
 
 ### 个人邮箱：yu_tian_jian@163.com  欢迎随时联系。
 
+### 了解更多我的App情况，请访问我的[个人中文网页](http://yu-tian-jian.github.io)。
+
 ![图标](icon_TV.png)
 
 ![电视](00.png)
