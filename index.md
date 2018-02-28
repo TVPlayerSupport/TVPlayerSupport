@@ -59,8 +59,7 @@ App本身不带任何直播源地址，支持用户自己定制广播电视直�
 - 建议您下载模版文件后，更改文件名，以便区分以后下载的模版文件。
 
 - 2018年2月28日（当日2次更新）。
-
-[源地址模版文件下载](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
+- [源地址模版文件下载](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
 
 ## 源地址名称显示错误的解决办法
 
