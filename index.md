@@ -4,7 +4,7 @@
 
 ### 电子邮箱：yu_tian_jian@163.com  欢迎随时联系。
 
-### 了解我的其他App情况，请访问：[yutianjian的中文网页](http://yu-tian-jian.github.io)。
+### 了解其他应用情况，请访问：[yutianjian的中文网页](http://yu-tian-jian.github.io)。
 
 ![图标](icon_TV.png)
 
