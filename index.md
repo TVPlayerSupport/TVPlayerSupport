@@ -6,6 +6,8 @@
 
 ### 如需了解其他App情况，敬请访问：[yutianjian的中文网页](http://yu-tian-jian.github.io)。
 
+### 或访问：[www.yutianjian.com](http://yutianjian.com)
+
 ![图标](icon_TV.png)
 
 ![电视](00.png)
