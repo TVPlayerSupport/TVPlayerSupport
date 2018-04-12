@@ -4,7 +4,7 @@
 
 ### 电子邮箱：yu_tian_jian@163.com  欢迎随时联系。
 
-### 访问个人网页：[http://www.yutianjian.com](http://www.yutianjian.com)
+### 敬请访问：[http://www.yutianjian.com](http://www.yutianjian.com)
 
 ![图标](icon_TV.png)
 
