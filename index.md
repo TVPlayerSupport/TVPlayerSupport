@@ -69,7 +69,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 
 ## 源地址模版文件
 
-- 为方便使用，特制作模版文件，供下载测试，包括央视、省市地方等电视直播源，详见[https://TVPlayerSupport.github.io/Details/]。
+- 为方便使用，特制作模版文件，供下载测试，包括央视、省市地方等电视直播源，[详见](https://TVPlayerSupport.github.io/Details/)。
 - 如果出现卡顿、失效的源，请自己删除。
 - 2018年04月28日更新。
 - [点击下载源地址模版文件](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
