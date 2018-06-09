@@ -6,6 +6,8 @@
 
 ### 敬请访问：[http://www.yutianjian.com](http://www.yutianjian.com)
 
+### 看世界杯，已经汇集一些央视5和5+直播源，自己也可以将流畅的源集中起来！！！
+
 ![图标](icon_TV.png)
 
 ![电视](00.png)
