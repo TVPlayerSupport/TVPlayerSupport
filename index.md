@@ -21,9 +21,9 @@
 App本身不带任何直播源地址，支持用户自己定制，想看什么电视、电影频道，完全由自己制作的源文件确定。
 只需将广播电视直播源地址文件拖入播放窗口或打开即可。
 
-## 通过AirPlay可以支持AppleTV
+## AirPlay可以支持AppleTV
 
-根据用户Burning的实际测试，当iMac和AppleTV都通过wifi连接到家庭局域网时，Player播放的视频可以隔空投放到AppleTV上。
+用户Burning经过实际测试，iMac和AppleTV通过wifi连接到家庭局域网时，Player播放的视频可以隔空投放到AppleTV。
 
 ## 功能
 
