@@ -26,7 +26,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 用户Burning经过实际测试，iMac和AppleTV通过wifi连接到家庭局域网时，Player播放的视频可以隔空投放到AppleTV。
 谢谢Burning。
 
-## Custom IPTV Channel (for Apple TV) App预告
+## Custom IPTV Channel (for Apple TV) 预告
 
 目前，正在开发AppleTV应用商店的App，Custom IPTV Channel，支持txt和m3u播放列表文件的远程下载，主要功能已经完成测试。
 
