@@ -26,11 +26,12 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 用户Burning经过实际测试，iMac和AppleTV通过wifi连接到家庭局域网时，Player播放的视频可以隔空投放到AppleTV。
 谢谢Burning。
 
-## Custom IPTV Channel (for Apple TV) 
+## 源文件用于Apple TV的说明
 
-推荐一款在Apple TV上看电视直播的App，Custom IPTV Channel，支持txt和m3u播放列表文件的远程下载。
-
-[详情点击](http://xia-lina.github.io)
+- 模版文件的直播源在iMac上测试可用，Apple TV是否可用，需要你自己测试。
+-
+- 源文件是txt格式的，可能需要转换为m3u格式文件才能使用，用Excel可以转换。
+-
 
 ## 功能
 
