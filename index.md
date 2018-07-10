@@ -123,8 +123,12 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - 2018年07月10日更新。
 - [下载源地址模版文件](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
 - 
-- m3u模版文件（仅供AppleTV用户参考，该文件不会更新）
+- m3u（格式1）模版文件（仅供AppleTV用户参考，该文件不会更新）
 - [下载m3u模版文件](https://TVPlayerSupport.github.io/txt/M3U_1_CN.m3u.zip)
+- 
+- m3u（格式2）模版文件（仅供AppleTV用户参考，该文件不会更新）
+- [下载m3u模版文件](https://TVPlayerSupport.github.io/txt/M3U_2_CN.m3u.zip)
+
 
 ## 源地址名称显示错误的解决办法
 
