@@ -145,14 +145,12 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - （6）2018年07月19日更新。
 - [体育频道](https://TVPlayerSupport.github.io/Playlist/Sports.txt.zip)
 - （7）2018年07月19日更新。
-- [英语频道](https://TVPlayerSupport.github.io/Playlist/English.txt.zip)
-- 
+- [英语频道](https://TVPlayerSupport.github.io/Playlist/English.txt.zip) 
 - （8）2018年07月19日更新。
 - [国外频道](https://TVPlayerSupport.github.io/Playlist/ForeignChannel.txt.zip)
--
 - （9）2018年07月19日更新。
 - [棋牌休闲](https://TVPlayerSupport.github.io/Playlist/Chess.txt.zip)
--
+- 
 - （10）2018年07月19日更新。
 - [音乐时尚](https://TVPlayerSupport.github.io/Playlist/Music.txt.zip)
 -
