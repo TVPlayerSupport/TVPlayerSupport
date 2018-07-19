@@ -132,21 +132,48 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - 2018年07月18日更新。
 - [下载播放列表模版文件](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
 - 
-- 2018年07月19日更新。
+- （1）2018年07月19日更新。
 - [央视频道](https://TVPlayerSupport.github.io/Playlist/CCTV.txt.zip)
 - 
-- 2018年07月19日更新。
+- （2）2018年07月19日更新。
 - [卫视频道](https://TVPlayerSupport.github.io/Playlist/SatelliteTV.txt.zip)
 - 
-- 2018年07月19日更新。
+- （3）2018年07月19日更新。
 - [省市地方](https://TVPlayerSupport.github.io/Playlist/Local.txt.zip)
 - 
-- 2018年07月19日更新。
+- （4）2018年07月19日更新。
 - [港澳台源](https://TVPlayerSupport.github.io/Playlist/HongKong.txt.zip)
 - 
-- 2018年07月19日更新。
+- （5）2018年07月19日更新。
 - [儿童动画](https://TVPlayerSupport.github.io/Playlist/Cartoon.txt.zip)
 - 
+- （6）2018年07月19日更新。
+- [体育频道](https://TVPlayerSupport.github.io/Playlist/Sports.txt.zip)
+-
+- （7）2018年07月19日更新。
+- [英语频道](https://TVPlayerSupport.github.io/Playlist/English.txt.zip)
+-
+- （8）2018年07月19日更新。
+- [国外频道](https://TVPlayerSupport.github.io/Playlist/ForeignChannel.txt.zip)
+-
+- （9）2018年07月19日更新。
+- [棋牌休闲](https://TVPlayerSupport.github.io/Playlist/Chess.txt.zip)
+-
+- （10）2018年07月19日更新。
+- [音乐时尚](https://TVPlayerSupport.github.io/Playlist/Music.txt.zip)
+-
+- （11）2018年07月19日更新。
+- [NewTV](https://TVPlayerSupport.github.io/Playlist/NewTV.txt.zip)
+-
+- （12）2018年07月19日更新。
+- [综合杂类](https://TVPlayerSupport.github.io/Playlist/Others.txt.zip)
+-
+- （13）2018年07月19日更新。
+- [电影频道](https://TVPlayerSupport.github.io/Playlist/Movie.txt.zip)
+-
+- （14）2018年07月19日更新。
+- [广播电台](https://TVPlayerSupport.github.io/Playlist/Radio.txt.zip)
+-
 - m3u（格式1）模版文件（该文件不会更新）
 - [下载m3u（格式1）模版文件](https://TVPlayerSupport.github.io/txt/M3U_1_CN.m3u.zip)
 - 
