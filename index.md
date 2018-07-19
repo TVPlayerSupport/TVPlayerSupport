@@ -132,6 +132,21 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - 2018年07月18日更新。
 - [下载播放列表模版文件](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
 - 
+- 2018年07月19日更新。
+- [央视频道](https://TVPlayerSupport.github.io/Playlist/CCTV.txt.zip)
+- 
+- 2018年07月19日更新。
+- [卫视频道](https://TVPlayerSupport.github.io/Playlist/SatelliteTV.txt.zip)
+- 
+- 2018年07月19日更新。
+- [省市地方](https://TVPlayerSupport.github.io/Playlist/Local.txt.zip)
+- 
+- 2018年07月19日更新。
+- [港澳台源](https://TVPlayerSupport.github.io/Playlist/HongKong.txt.zip)
+- 
+- 2018年07月19日更新。
+- [儿童动画](https://TVPlayerSupport.github.io/Playlist/Cartoon.txt.zip)
+- 
 - m3u（格式1）模版文件（该文件不会更新）
 - [下载m3u（格式1）模版文件](https://TVPlayerSupport.github.io/txt/M3U_1_CN.m3u.zip)
 - 
