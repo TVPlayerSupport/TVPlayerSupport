@@ -149,7 +149,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - 
 - （6）2018年07月19日更新。
 - [体育频道](https://TVPlayerSupport.github.io/Playlist/Sports.txt.zip)
--
+- 
 - （7）2018年07月19日更新。
 - [英语频道](https://TVPlayerSupport.github.io/Playlist/English.txt.zip)
 -
