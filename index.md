@@ -36,7 +36,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - 点击“显示或隐藏播放列表”，播放列表将会显示或隐藏。
 - 播放列表具有自动隐藏功能。
 
-## 版本8.0新功能简单介绍（待审核）
+## 版本8.0新功能简单介绍
 
 可以支持多个播放列表文件，这样便于分类整理直播源，降低列表长度。那么如果想删除某个原来保存的列表文件，该如何操作呢？
 - 首先在列表中选择要删除的文件；
@@ -138,7 +138,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - [卫视频道](https://TVPlayerSupport.github.io/Playlist/SatelliteTV.txt.zip)
 - （3）2018年07月19日更新。
 - [省市地方](https://TVPlayerSupport.github.io/Playlist/Local.txt.zip)
-- （4）2018年07月19日更新。
+- （4）2018年07月20日更新。
 - [港澳台源](https://TVPlayerSupport.github.io/Playlist/HongKong.txt.zip)
 - （5）2018年07月19日更新。
 - [儿童动画](https://TVPlayerSupport.github.io/Playlist/Cartoon.txt.zip)
@@ -146,11 +146,11 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - [体育频道](https://TVPlayerSupport.github.io/Playlist/Sports.txt.zip)
 - （7）2018年07月19日更新。
 - [英语频道](https://TVPlayerSupport.github.io/Playlist/English.txt.zip) 
-- （8）2018年07月19日更新。
+- （8）2018年07月20日更新。
 - [国外频道](https://TVPlayerSupport.github.io/Playlist/ForeignChannel.txt.zip)
 - （9）2018年07月19日更新。
 - [棋牌休闲](https://TVPlayerSupport.github.io/Playlist/Chess.txt.zip)
-- （10）2018年07月19日更新。
+- （10）2018年07月20日更新。
 - [音乐时尚](https://TVPlayerSupport.github.io/Playlist/Music.txt.zip)
 - （11）2018年07月19日更新。
 - [NewTV](https://TVPlayerSupport.github.io/Playlist/NewTV.txt.zip)
@@ -158,7 +158,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - [综合杂类](https://TVPlayerSupport.github.io/Playlist/Others.txt.zip)
 - （13）2018年07月19日更新。
 - [电影频道](https://TVPlayerSupport.github.io/Playlist/Movie.txt.zip)
-- （14）2018年07月19日更新。
+- （14）2018年07月20日更新。
 - [广播电台](https://TVPlayerSupport.github.io/Playlist/Radio.txt.zip)
 - 
 - m3u（格式1）模版文件（该文件不会更新）
