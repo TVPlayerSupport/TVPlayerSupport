@@ -129,8 +129,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - 如果出现卡顿、失效的源，请自己删除。
 - 为减少源地址列表长度，可分类制作多个源文件，看什么拖什么。
 - 
-- 2018年07月18日更新。
-- [下载播放列表模版文件](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
+- [新增源专用模版文件](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)2018年07月20日更新。
 - 
 - (01)[央视频道](https://TVPlayerSupport.github.io/Playlist/CCTV.txt.zip)2018年07月19日更新。
 
