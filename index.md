@@ -132,51 +132,39 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - 2018年07月18日更新。
 - [下载播放列表模版文件](https://TVPlayerSupport.github.io/txt/myTVsrc.txt.zip)
 - 
-- （1）2018年07月19日更新。
-- [央视频道](https://TVPlayerSupport.github.io/Playlist/CCTV.txt.zip)
-- （2）2018年07月19日更新。
-- [卫视频道](https://TVPlayerSupport.github.io/Playlist/SatelliteTV.txt.zip)
-- （3）2018年07月19日更新。
-- [省市地方](https://TVPlayerSupport.github.io/Playlist/Local.txt.zip)
-- （4）2018年07月20日更新。
-- [港澳台源](https://TVPlayerSupport.github.io/Playlist/HongKong.txt.zip)
-- （5）2018年07月19日更新。
-- [儿童动画](https://TVPlayerSupport.github.io/Playlist/Cartoon.txt.zip)
-- （6）2018年07月19日更新。
-- [体育频道](https://TVPlayerSupport.github.io/Playlist/Sports.txt.zip)
-- （7）2018年07月19日更新。
-- [英语频道](https://TVPlayerSupport.github.io/Playlist/English.txt.zip) 
-- （8）2018年07月20日更新。
-- [国外频道](https://TVPlayerSupport.github.io/Playlist/ForeignChannel.txt.zip)
-- （9）2018年07月19日更新。
-- [棋牌休闲](https://TVPlayerSupport.github.io/Playlist/Chess.txt.zip)
-- （10）2018年07月20日更新。
-- [音乐时尚](https://TVPlayerSupport.github.io/Playlist/Music.txt.zip)
-- （11）2018年07月19日更新。
-- [NewTV](https://TVPlayerSupport.github.io/Playlist/NewTV.txt.zip)
-- （12）2018年07月19日更新。
-- [综合杂类](https://TVPlayerSupport.github.io/Playlist/Others.txt.zip)
-- （13）2018年07月19日更新。
-- [电影频道](https://TVPlayerSupport.github.io/Playlist/Movie.txt.zip)
-- （14）2018年07月20日更新。
-- [广播电台](https://TVPlayerSupport.github.io/Playlist/Radio.txt.zip)
+- (01)[央视频道](https://TVPlayerSupport.github.io/Playlist/CCTV.txt.zip)2018年07月19日更新。
+
+- (02)[卫视频道](https://TVPlayerSupport.github.io/Playlist/SatelliteTV.txt.zip)2018年07月19日更新。
+
+- (03)[省市地方](https://TVPlayerSupport.github.io/Playlist/Local.txt.zip)2018年07月19日更新。
+
+- (04)[港澳台源](https://TVPlayerSupport.github.io/Playlist/HongKong.txt.zip)2018年07月20日更新。
+
+- (05)[儿童动画](https://TVPlayerSupport.github.io/Playlist/Cartoon.txt.zip)2018年07月19日更新。
+
+- (06)[体育频道](https://TVPlayerSupport.github.io/Playlist/Sports.txt.zip)2018年07月19日更新。
+
+- (07)[英语频道](https://TVPlayerSupport.github.io/Playlist/English.txt.zip)2018年07月19日更新。 
+
+- (08)[国外频道](https://TVPlayerSupport.github.io/Playlist/ForeignChannel.txt.zip)2018年07月20日更新。
+
+- (09)[棋牌休闲](https://TVPlayerSupport.github.io/Playlist/Chess.txt.zip)2018年07月19日更新。
+
+- (10)[音乐时尚](https://TVPlayerSupport.github.io/Playlist/Music.txt.zip)2018年07月20日更新。
+
+- (11)[NewTV](https://TVPlayerSupport.github.io/Playlist/NewTV.txt.zip)2018年07月19日更新。
+
+- (12)[综合杂类](https://TVPlayerSupport.github.io/Playlist/Others.txt.zip)2018年07月19日更新。
+
+- (13)[电影频道](https://TVPlayerSupport.github.io/Playlist/Movie.txt.zip)2018年07月19日更新。
+
+- (14)[广播电台](https://TVPlayerSupport.github.io/Playlist/Radio.txt.zip)2018年07月20日更新。
 - 
 - m3u（格式1）模版文件（该文件不会更新）
 - [下载m3u（格式1）模版文件](https://TVPlayerSupport.github.io/txt/M3U_1_CN.m3u.zip)
 - 
 - m3u（格式2）模版文件（该文件不会更新）
 - [下载m3u（格式2）模版文件](https://TVPlayerSupport.github.io/txt/M3U_2_CN.m3u.zip)
-
-
-## 源地址名称显示错误的解决办法
-
-- 有时候，源地址名称播放列表可能出现显示错误的情况，或在源地址列表中无法显示某个源地址。
-- 导致在选择某个源地址进行播放时，实际播放的却是另一个频道。
-- 出现这种错误的原因一般是：源地址名称出现相同的情况。
-- 解决办法：修改源地址名称，使2者有所区别。比如：天元围棋1，另一个则改为：天元围棋2。
-- 这样就可以解决出现源地址名称显示错误的问题。
-- 这个bug排查过多次，没有解决，目前，只能避免使用同名。
-- 经过简单测试，新版本7.0已经解决这个bug，当然，还需要进行一段时间的观察。
 
 ## 要求和建议
 
