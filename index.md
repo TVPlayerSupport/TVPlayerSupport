@@ -129,7 +129,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 
 - 如果出现卡顿、失效的源，请自己删除。
 - 
-- [新增源专用模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip)  2018年07月24日更新。
+- [新增源专用模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip)  2018年07月25日更新。
 - 
 - (01)[央视频道](https://TVPlayerSupport.github.io/Playlist/CCTV.txt.zip)  2018年07月19日更新。
 
@@ -141,7 +141,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 
 - (05)[儿童动画](https://TVPlayerSupport.github.io/Playlist/Cartoon.txt.zip)  2018年07月21日更新。
 
-- (06)[体育频道](https://TVPlayerSupport.github.io/Playlist/Sports.txt.zip)  2018年07月21日更新。
+- (06)[体育频道](https://TVPlayerSupport.github.io/Playlist/Sports.txt.zip)  2018年07月25日更新。
 
 - (07)[英语频道](https://TVPlayerSupport.github.io/Playlist/English.txt.zip)  2018年07月19日更新。 
 
