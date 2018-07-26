@@ -128,11 +128,9 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 - IPTV播放器已经支持多列表文件，可自己分类制作列表文件。
 
 ## 模版文件
--
-- [点击查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
+- [查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
 - 2018年07月26日更新
-- [点击下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
-- 
+- [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
 - m3u（格式1）模版文件（该文件不会更新）
 - [下载m3u（格式1）模版文件](https://TVPlayerSupport.github.io/txt/M3U_1_CN.m3u.zip)
