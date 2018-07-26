@@ -128,9 +128,9 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 
 ## 模版文件
 -
-- 大约包括2000个源地址， [点击查看详情](http://TVPlayerSupport.github.io/Details/)
+- 大约包括2000个源地址， [点击查看详情。](http://TVPlayerSupport.github.io/Details/)
 - 2018年07月26日更新
-- [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
+- [点击下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
 - 
 - m3u（格式1）模版文件（该文件不会更新）
