@@ -128,7 +128,8 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 
 ## 模版文件
 - 
-- [新增源专用模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip)  2018年07月26日更新。
+- 2018年07月26日更新
+- [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
 - (01)[央视频道](https://TVPlayerSupport.github.io/Playlist/CCTV.txt.zip)  2018年07月26日更新。
 
