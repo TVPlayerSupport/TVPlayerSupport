@@ -141,7 +141,7 @@ App本身不带任何直播源地址，支持用户自己定制，想看什么�
 
 ## 模版文件
 - [查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
-- 2018年08月09日更新（预告：8月11日起，外出约15天，暂停更新）
+- 2018年08月09日更新（外出约15天，暂停更新）
 - [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
 - m3u（格式1）模版文件（仅供参考，不会更新）
