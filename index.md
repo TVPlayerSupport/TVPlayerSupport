@@ -146,7 +146,7 @@ IPTV网络电视播放器仅仅只是一个播放工具，自身不带任何直�
 
 ## 模版文件
 - [查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
-- 2018年09月08日更新
+- 2018年09月09日更新
 - [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
 - m3u（格式1）模版文件（仅供参考，不会更新）
