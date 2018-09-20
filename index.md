@@ -26,7 +26,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 用户Burning经过实际测试，iMac和AppleTV通过wifi连接到家庭局域网时，播放器的视频可以隔空投放到AppleTV。
 谢谢Burning。
 
-## 版本8.8新功能介绍（待审核）
+## 版本8.8新功能介绍
 
 个人收藏功能可以将自己经常看的频道添加到个人收藏播放列表中。
 
@@ -156,7 +156,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 
 ## 模版文件
 - [查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
-- 2018年09月19日更新
+- 2018年09月20日更新
 - [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
 - m3u（格式1）模版文件（仅供参考，不会更新）
