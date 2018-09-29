@@ -155,17 +155,6 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 - 不承诺长期更新。
 - IPTV网络电视播放器已经支持多列表文件，可自己分类制作列表文件。
 
-## 模版文件
-- [查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
-- 2018年09月29日更新
-- [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
-- 
-- m3u（格式1）模版文件（仅供参考，不会更新）
-- [下载m3u（格式1）模版文件](https://TVPlayerSupport.github.io/txt/M3U_1_CN.m3u.zip)
-- 
-- m3u（格式2）模版文件（仅供参考，不会更新）
-- [下载m3u（格式2）模版文件](https://TVPlayerSupport.github.io/txt/M3U_2_CN.m3u.zip)
-
 ## 沟通与交流
 
 ![图标](100.png)
@@ -203,6 +192,17 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 ![图标](310.png)
 
 - 对于这样一个评价，我有点莫名其妙！我很难相信他说的情况是真实存在的，播放器本身不可能存在额外收费的情况，这是无中生有的污蔑。不知道他到底有什么目的？
+
+## 模版文件
+- [查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
+- 2018年09月29日更新
+- [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
+- 
+- m3u（格式1）模版文件（仅供参考，不会更新）
+- [下载m3u（格式1）模版文件](https://TVPlayerSupport.github.io/txt/M3U_1_CN.m3u.zip)
+- 
+- m3u（格式2）模版文件（仅供参考，不会更新）
+- [下载m3u（格式2）模版文件](https://TVPlayerSupport.github.io/txt/M3U_2_CN.m3u.zip)
 
 ## 感谢与希望
 
