@@ -30,7 +30,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 ## AirPlay可以支持AppleTV
 
 用户iBurning经过实际测试，iMac和AppleTV通过wifi连接到家庭局域网时，播放器的视频可以隔空投放到AppleTV。
-谢谢Burning。
+谢谢iBurning。
 
 ## 版本8.8新功能介绍
 
