@@ -207,7 +207,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 
 ## 模版文件
 - [查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
-- 2018年10月03日更新
+- 2018年10月03日更新（预告10月6日起去额济纳暂停更新）
 - [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
 - m3u（格式1）模版文件（仅供参考，不会更新）
