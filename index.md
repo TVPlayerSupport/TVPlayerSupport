@@ -201,7 +201,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 
 ## 模版文件
 - [查看模版文件详情。](http://TVPlayerSupport.github.io/Details/)
-- 2018年10月20日更新
+- 2018年10月21日更新
 - [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
 - m3u（格式1）模版文件（仅供参考，不会更新）
@@ -209,6 +209,10 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 - 
 - m3u（格式2）模版文件（仅供参考，不会更新）
 - [下载m3u（格式2）模版文件](https://TVPlayerSupport.github.io/txt/M3U_2_CN.m3u.zip)
+
+## 关于m3u文件格式
+
+如果播放器无法正确打开你的m3u文件，请检查格式是否与上面的模版文件格式是否一致。
 
 ## 感谢与希望
 
