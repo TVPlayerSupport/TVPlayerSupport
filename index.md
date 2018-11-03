@@ -82,12 +82,12 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
   将播放列表文件命名为：xxx.txt，然后，按以下格式编辑并保存文件：
     
 - #EXTM3U
-- #EXTINF:-1,MUSIC choice
-- MUSIC choice,https://edge.music-choice-play-chaina/play/chunklist.m3u8
-- #EXTINF:-1,NHK
-- NHK,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
-- #EXTINF:-1,BAL TV
-- BAL TV,http://77.89.199.174:81/hls/live2.m3u8
+- #EXTINF:-1,Channel 1
+- Channel 1,https://edge.music-choice-play-chaina/play/chunklist.m3u8
+- #EXTINF:-1,Channel 2
+- Channel 2,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
+- #EXTINF:-1,Channel 3
+- Channel 3,http://77.89.199.174:81/hls/live2.m3u8
 - 等等. . . . . .
 - 将xxx.txt保存为UTF-8格式, 最后将xxx.txt的扩展名改为xxx.m3u。
 
@@ -96,11 +96,11 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
   将播放列表文件命名为：xxx.txt，然后，按以下格式编辑并保存文件：
     
 - #EXTM3U
-- #EXTINF:-1,MUSIC choice
+- #EXTINF:-1,Channel 1
 - https://edge.music-choice-play-chaina/play/chunklist.m3u8
-- #EXTINF:-1,NHK
+- #EXTINF:-1,Channel 2
 - https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
-- #EXTINF:-1,BAL TV
+- #EXTINF:-1,Channel 3
 - http://77.89.199.174:81/hls/live2.m3u8
 - 等等. . . . . .
 - 将xxx.txt保存为UTF-8格式, 最后将xxx.txt的扩展名改为xxx.m3u。
@@ -158,11 +158,11 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 - 2018年11月02日更新
 - [下载模版文件](https://TVPlayerSupport.github.io/Playlist/myTVsrc.txt.zip) 
 - 
-- m3u（格式1）模版文件（仅供参考，不会更新）
-- [下载m3u（格式1）模版文件](https://TVPlayerSupport.github.io/txt/M3U_1_CN.m3u.zip)
+- m3u（格式1）模版文件（仅供参考）
+- [下载m3u（格式1）模版文件](https://TVPlayerSupport.github.io/txt/M3U-1.m3u.zip)
 - 
-- m3u（格式2）模版文件（仅供参考，不会更新）
-- [下载m3u（格式2）模版文件](https://TVPlayerSupport.github.io/txt/M3U_2_CN.m3u.zip)
+- m3u（格式2）模版文件（仅供参考）
+- [下载m3u（格式2）模版文件](https://TVPlayerSupport.github.io/txt/M3U-2.m3u.zip)
 
 ## 感谢与希望
 
