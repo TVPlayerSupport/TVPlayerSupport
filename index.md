@@ -136,10 +136,10 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 
 - TXT模版文件（仅供参考）
 - [下载TXT模版文件](https://TVPlayerSupport.github.io/Playlist/PlaylistCn.txt.zip) 
-- 
+
 - M3U（格式1）模版文件（仅供参考）
 - [下载M3U模版文件](https://TVPlayerSupport.github.io/txt/M3U-1.m3u.zip)
-- 
+
 - M3U（格式2）模版文件（仅供参考）
 - [下载M3U模版文件](https://TVPlayerSupport.github.io/txt/M3U-2.m3u.zip)
 
