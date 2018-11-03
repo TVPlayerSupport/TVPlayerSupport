@@ -82,11 +82,11 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
   将播放列表文件命名为：xxx.txt，然后，按以下格式编辑并保存文件：
     
 - #EXTM3U
-- #EXTINF:-1,Channel 1
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
 - Channel 1,https://edge.music-choice-play-chaina/play/chunklist.m3u8
-- #EXTINF:-1,Channel 2
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 2
 - Channel 2,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
-- #EXTINF:-1,Channel 3
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 3
 - Channel 3,http://77.89.199.174:81/hls/live2.m3u8
 - 等等. . . . . .
 - 将xxx.txt保存为UTF-8格式, 最后将xxx.txt的扩展名改为xxx.m3u。
@@ -96,11 +96,11 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
   将播放列表文件命名为：xxx.txt，然后，按以下格式编辑并保存文件：
     
 - #EXTM3U
-- #EXTINF:-1,Channel 1
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
 - https://edge.music-choice-play-chaina/play/chunklist.m3u8
-- #EXTINF:-1,Channel 2
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 2
 - https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
-- #EXTINF:-1,Channel 3
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 3
 - http://77.89.199.174:81/hls/live2.m3u8
 - 等等. . . . . .
 - 将xxx.txt保存为UTF-8格式, 最后将xxx.txt的扩展名改为xxx.m3u。
