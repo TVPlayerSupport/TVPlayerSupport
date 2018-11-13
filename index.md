@@ -2,7 +2,7 @@
 
 ## IPTV网络电视播放器（Mac OSX苹果电脑版）
 
-## fast IPTV player (tvOS AppleTV版)
+## fast IPTV Player (tvOS AppleTV版)
 
 ### 电子邮箱：yu_tian_jian@163.com  欢迎随时联系。
 
