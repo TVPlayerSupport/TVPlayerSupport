@@ -46,14 +46,14 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 3. 需要将制作好的播放列表文件上传到某网页或个人网页，并获取下载地址。
 4. 在播放器内设置好播放文件的下载地址，然后刷新频道，即可使用了。
 
-## [如何快速建立自己的播放列表下载链接？](https://xia-lina.github.io/playlistURLCn/)
+### [如何快速建立自己的播放列表下载链接？](https://xia-lina.github.io/playlistURLCn/)
 
 ## 播放器使用说明(Mac OSX)
 
 虽然播放器的操作使用比较简单，还是建议下载看看，主要内容包括：
 
 1. 播放器的基本功能和操作。
-2. 分享发布资源的论坛。
+2. 资源论坛分享。
 
 - 因包含软件截图，说明有几十M，下载有点慢，请耐心等待，Safari下载后可另存到本地。
 - [下载播放器使用说明 (第五版2018-11-18更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
