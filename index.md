@@ -58,7 +58,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 3. 提供几个资源论坛地址供您参考。
 
 - 因包含软件截图，文件稍大，下载有点慢，尤其是周末，请耐心等待，Safari下载后可另存到本地。
-- [下载播放器使用说明 (第五版2018-12-02更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
+- [下载播放器使用说明 (第六版2018-12-03更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
 
 
 ## AirPlay可以支持AppleTV
@@ -73,6 +73,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 - 支持的视频格式有m3u8, mp4, mp3. . . . . .
 - 支持全屏播放。
 - 支持文件的拖放操作。
+- 支持远程下载播放列表。
 - 支持txt和m3u格式播放文件列表并自动保存。
 - 不同名文件自动保存，同名文件刷新内容。
 - 如需更新，编辑新文件后，再次打开或拖入窗口即可。
