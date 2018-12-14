@@ -60,7 +60,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 3. 提供几个资源论坛地址供您参考。
 
 - 因包含软件截图，文件稍大，下载有点慢，尤其是周末，请耐心等待，Safari下载后可另存到本地。
-- [下载播放器使用说明 (第六版2018-12-03更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
+- [下载播放器使用说明 (第六版2018-12-12更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
 
 
 ## AirPlay可以支持AppleTV
