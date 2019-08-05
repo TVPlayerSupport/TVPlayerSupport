@@ -4,6 +4,8 @@
 
 ## IPTV网络电视播放器（IOS苹果iPhone/iPad版）
 
+## IPTV网络电视播放器（安卓版 - Google Play App Store）
+
 ## fast IPTV Player (tvOS Apple TV版)
 
 #### 电子邮箱：yu_tian_jian@163.com  欢迎随时联系。
