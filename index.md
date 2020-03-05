@@ -12,13 +12,13 @@
 
 #### 敬请访问：[http://www.yutianjian.com](http://www.yutianjian.com)
 
-## [下载播放器使用说明 (第六版2020-03-05更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
-
 ![图标](icon_TV.png)
 
 ![电视](01.png)
 
 ![电视](02.png)
+
+## [下载播放器使用说明 (第六版2020-03-05更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
 
 IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，可以替代电视盒子+显示器，省钱省事省空间。
 网络电视直播资源十分丰富，只要花点时间，下点功夫，就能找到您想看的、丰富多彩的、世界各地的电视电影。
