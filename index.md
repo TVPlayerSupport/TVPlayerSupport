@@ -12,6 +12,8 @@
 
 #### 敬请访问：[http://www.yutianjian.com](http://www.yutianjian.com)
 
+## [下载播放器使用说明 (第六版2020-03-05更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
+
 ![图标](icon_TV.png)
 
 ![电视](01.png)
@@ -76,7 +78,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 3. 提供几个资源论坛地址供您参考。
 
 - 因包含软件截图，文件稍大，下载有点慢，尤其是周末，请耐心等待，Safari下载后可另存到本地。
-- [下载播放器使用说明 (第六版2020-03-01更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
+- [下载播放器使用说明 (第六版2020-03-05更新)](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
 
 
 ## AirPlay可以支持AppleTV
