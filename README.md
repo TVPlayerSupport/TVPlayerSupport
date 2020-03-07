@@ -1,2 +1,1 @@
-# TVPlayerSupport
-中文支持页面
+# TVPlayerSupport 中文支持页面
