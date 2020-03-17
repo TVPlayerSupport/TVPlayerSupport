@@ -125,7 +125,8 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 
 文件命名为：xxx.txt，然后，按以下格式编辑文件的内容。
 - 广播电视台名称,直播源地址链接。
-- 每行一个广播电视台，名称与地址之间由逗号（,）分隔。逗号请用英文（半角）方式输入。
+- 每行一个广播电视台，名称与地址之间由逗号（,）分隔。逗号请用英文（半角）方式输入。举例如下：
+- 电视频道1,https://edge.music-play-chaina/play/chunklist.m3u8
 - 具体文件格式，请参考模版文件。
 
 注意：
@@ -141,9 +142,9 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
     
 - #EXTM3U
 - #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
-- Channel 1,https://edge.music-choice-play-chaina/play/chunklist.m3u8
+- Channel 1,https://edge.music-play-chaina/play/chunklist.m3u8
 - #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 2
-- Channel 2,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
+- Channel 2,https://world.webcdn.stream.ne/live_wa_s.m3u8
 - #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 3
 - Channel 3,http://77.89.199.174:81/hls/live2.m3u8
 - 等等. . . . . .
@@ -155,9 +156,9 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
     
 - #EXTM3U
 - #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
-- https://edge.music-choice-play-chaina/play/chunklist.m3u8
+- https://edge.music-play-chaina/play/chunklist.m3u8
 - #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 2
-- https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
+- https://world.webcdn.stream.ne/live_wa_s.m3u8
 - #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 3
 - http://77.89.199.174:81/hls/live2.m3u8
 - 等等. . . . . .
