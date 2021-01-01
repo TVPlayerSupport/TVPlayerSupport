@@ -1,6 +1,6 @@
 ## 欢迎光临，谢谢惠顾！ 
 
-## IPTV网络电视播放器（Mac OSX苹果电脑版）
+## IPTV网络电视播放器（macOS苹果电脑版）
 
 ## IPTV网络电视播放器（IOS苹果iPhone/iPad版）
 
@@ -52,7 +52,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 
  [点击查看快速建立自己的播放列表下载链接方法](https://xia-lina.github.io/playlistURLCn/)
 
-## 播放器使用说明(Mac OSX)
+## 播放器使用说明(macOS)
 
 播放器的操作使用比较简单，实在是没什么难度，主要内容包括：
 
