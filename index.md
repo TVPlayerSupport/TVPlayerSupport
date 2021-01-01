@@ -2,7 +2,7 @@
 
 ## IPTV网络电视播放器（macOS苹果电脑版）
 
-## IPTV网络电视播放器（IOS苹果iPhone/iPad版）
+## IPTV网络电视播放器（iOS苹果iPhone/iPad版）
 
 ## fast IPTV Player (tvOS Apple TV版)
 
@@ -26,7 +26,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 
 为了使用播放器，您必须自己制作播放列表文件，制作文件并不复杂，参考播放器使用说明，以及模版文件格式，相信您很快就能制作出自己的播放列表文件。
 
-### IPTV网络电视播放器（IOS苹果iPhone/iPad版）简要说明
+### IPTV网络电视播放器（iOS苹果iPhone/iPad版）简要说明
 
 1. 使用的播放列表文件格式与苹果电脑版完全一致，可以通用。
 2. 支持远程和本地加载播放列表文件。
