@@ -6,7 +6,7 @@
 
 ## fast IPTV Player (tvOS Apple TV版)
 
-#### 电子邮箱：yu_tian_jian@163.com  欢迎随时联系。
+#### 电子邮箱：yu_tian_jian@163.com  或  yu_tian_jian@sina.cn  欢迎随时联系。
 
 #### 敬请访问：[http://www.yutianjian.com](https://yu-tian-jian.github.io)
 
