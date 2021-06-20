@@ -16,7 +16,7 @@
 
 ![电视](03.png)
 
-## [下载播放器使用说明 (2021-01-01更新) 境外服务器慢请耐心等待！](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
+## [下载播放器使用说明 (2021-06-20更新) 境外服务器慢请耐心等待！](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
 
 IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，可以替代电视盒子+显示器，省钱省事省空间。
 网络电视直播资源十分丰富，只要花点时间，下点功夫，就能找到您想看的、丰富多彩的、世界各地的电视电影。
@@ -61,7 +61,7 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 3. 提供几个资源论坛地址供您参考。
 
 - 因包含软件截图，文件稍大，下载有点慢，尤其是周末，请耐心等待，Safari下载后可另存到本地。
-- [下载播放器使用说明 (2021-01-01更新) 境外服务器慢请耐心等待！](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
+- [下载播放器使用说明 (2021-06-20更新) 境外服务器慢请耐心等待！](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
 
 
 ## AirPlay可以支持AppleTV
@@ -151,7 +151,8 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 ## 模版文件
 
 - 模版文件内包含的资源均不可用，仅供您制作播放列表文件时参考其格式。
-- 如有问题请发邮件联系：yu_tian_jian@163.com
+- 建议使用txt格式的模版文件，相对比较简单一下。
+- 如有问题请发邮件联系：yu_tian_jian@163.com 或 yu_tian_jian@sina.cn
 
 - 下列TXT模版文件内包含的资源均不可用，仅供您制作播放列表文件时参考其格式。
 - [下载TXT模版文件](https://TVPlayerSupport.github.io/Playlist/Playlist-Sample-Cn.txt.zip) 
