@@ -31,11 +31,11 @@ IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，�
 1. 使用的播放列表文件格式与苹果电脑版完全一致，可以通用。
 2. 支持远程和本地加载播放列表文件。
 
-- 如何加载本地播放列表文件
+- 如何加载本地播放列表文件到iPhone/iPad
 
 1. 将设备连接到电脑。
 2. 打开电脑上的iTunes，找到共享文件选项，找到IPTV网络电视播放器，添加播放列表文件到文件夹。
-3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用访达添加播放列表文件到IPTV网络电视播放器的共享文件夹，具体方法，请
+3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用“访达”将播放列表文件添加到iPhone/iPad中的“IPTV网络电视播放器”的共享文件夹，具体方法，请
    [下载macOS如何实现iPhone/iPad文件共享功能 (2021-08-31上传)](https://TVPlayerSupport.github.io/Playlist/macOSiTunesFileShare.pdf) 
 
 - 如何加载远程播放列表文件
