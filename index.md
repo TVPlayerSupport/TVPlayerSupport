@@ -19,7 +19,7 @@
 
 ![电视](03.png)
 
-## [下载播放器使用说明 (2021-06-20更新) 境外服务器慢请耐心等待！](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
+## [下载播放器使用说明 (2022-12-03更新) 境外服务器慢请耐心等待！](https://TVPlayerSupport.github.io/Playlist/IPTVPlayerGuidelines.pdf) 
 
 IPTV网络电视播放器, 在您的iMac或MBP上看电视直播，听广播，可以替代电视盒子+显示器，省钱省事省空间。
 网络电视直播资源十分丰富，只要花点时间，下点功夫，就能找到您想看的、丰富多彩的、世界各地的电视电影。
