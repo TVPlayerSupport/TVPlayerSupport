@@ -8,7 +8,7 @@
 
 #### 电子邮箱：yu_tian_jian@163.com  或  yu_tian_jian@sina.cn  欢迎随时联系。
 
-#### 敬请访问：[http://www.yutianjian.com](https://yu-tian-jian.github.io)
+#### 敬请访问：[http://www.yutianjian.github.io](https://yu-tian-jian.github.io)
 
 
 ![图标](icon_TV.png)  (macOS)
